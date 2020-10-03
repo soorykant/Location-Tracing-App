@@ -1,0 +1,2 @@
+# Location-Tracing-App
+This project is based on android app developments, where I have used Android Studio, Firebase Cloud Messaging Service for managing notification in the app, and Google Maps API. I have learned geo-fence creations (circular and polygon) and tried to filter out the points whether they're inside or outside of the geo-fence based on their positions compared to geo-fence. I Learned how to integrate Firebase with Android Apps and create your custom notifications in FCM service.
